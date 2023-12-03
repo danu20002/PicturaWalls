@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449855107948",
+    "project_id": "picturawalls-ea491",
+    "storage_bucket": "picturawalls-ea491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449855107948:android:33e339634faf09b5403949",
+        "android_client_info": {
+          "package_name": "com.daneshnaik.picturawalls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NWI2LFQyEqSn1Mga6p1tUsrUsDN__mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -41,6 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Name of Image"
+            android:id="@+id/name_of_image"
             android:textColorHint="@color/white"
             android:textColor="@color/white"
             />
@@ -49,12 +50,16 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/image_of_mainpage"
             android:src="@drawable/baseline_add_photo_alternate_24"
             android:layout_gravity="center"/>
          <androidx.appcompat.widget.AppCompatButton
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:text="Add"
+             android:id="@+id/image_add_btn_mainpage"
+             android:textColor="@color/white"
+             android:textStyle="bold"
              android:layout_margin="20dp"
 
              android:background="#3F51B5"/>
